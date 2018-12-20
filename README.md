@@ -1,10 +1,10 @@
 ![GitHub Logo](/stopslack.png)
 
-# Slack Alternatives List
+# Slack Alternatives
 
 * [flock](#Flock)
 * [rocket.chat](#Rocket.chat)
-
+* [zulipchat](#Zulipchat)
 
 
 ## Flock
@@ -18,6 +18,11 @@ Rocket.Chat is the leading open source team chat software solution. Free, unlimi
 https://rocket.chat/
 
 
+## Zulipchat
+
+Zulip combines the immediacy of real-time chat with an email threading model. 
+With Zulip, you can catch up on important conversations while ignoring irrelevant ones.
+https://zulipchat.com/
 
 
 # Reason
