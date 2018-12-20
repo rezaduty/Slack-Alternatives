@@ -6,6 +6,7 @@
 * [rocket.chat](#Rocket.chat)
 * [zulipchat](#Zulipchat)
 * [mattermost](#Mattermost)
+* [winio](#Winio)
 
 
 ## Flock
@@ -30,6 +31,12 @@ https://zulipchat.com/
 
 Get more done, faster, with team collaboration and messaging that deploys to cloud infrastructure under IT control, as well as on-premise.
 https://mattermost.com/
+
+
+## Winio
+
+Winio is a simple collaboration tool for everyone, where thousands of individuals - from freelancers to huge teams - unleash their potential, find time to collaborate, make ideas come to life and celebrate achievements together.
+https://winio.io/
 
 
 # Reason
