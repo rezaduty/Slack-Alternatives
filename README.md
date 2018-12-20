@@ -8,6 +8,7 @@
 * [mattermost](#Mattermost)
 * [winio](#Winio)
 * [proofhub](#Proofhub)
+* [Twist](#Twist)
 
 
 ## Flock
@@ -49,3 +50,8 @@ https://www.proofhub.com/
 # Reason
 
 In order to comply with export control and economic sanctions laws and regulations promulgated by the U.S. Department of Commerce and the U.S. Department of Treasury, Slack prohibits unauthorized use of its products and services in certain sanctioned countries and regions including Cuba, Iran, North Korea, Syria, and the Crimea region of Ukraine. We’ve identified your team/account as originating from one of these countries and are closing the account effective immediately. 
+
+# Twist
+
+Twist is the communication tool for teams who believe there’s more to work than keeping up with group chat apps. 
+more info : https://twist.com
