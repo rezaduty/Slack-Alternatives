@@ -5,6 +5,7 @@
 * [flock](#Flock)
 * [rocket.chat](#Rocket.chat)
 * [zulipchat](#Zulipchat)
+* [mattermost](#Mattermost)
 
 
 ## Flock
