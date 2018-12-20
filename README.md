@@ -2,12 +2,12 @@
 
 # Slack Alternatives
 
-* [flock](#Flock)
-* [rocket.chat](#Rocket.chat)
-* [zulipchat](#Zulipchat)
-* [mattermost](#Mattermost)
-* [winio](#Winio)
-* [proofhub](#Proofhub)
+* [Flock](#Flock)
+* [Rocket.chat](#Rocket.chat)
+* [Zulipchat](#Zulipchat)
+* [Mattermost](#Mattermost)
+* [Winio](#Winio)
+* [Proofhub](#Proofhub)
 * [Twist](#Twist)
 
 
@@ -47,11 +47,14 @@ ProofHub's advanced online project management software, gives you full control o
 https://www.proofhub.com/
 
 
+## Twist
+
+Twist is the communication tool for teams who believe there’s more to work than keeping up with group chat apps. 
+more info : https://twist.com
+
+
 # Reason
 
 In order to comply with export control and economic sanctions laws and regulations promulgated by the U.S. Department of Commerce and the U.S. Department of Treasury, Slack prohibits unauthorized use of its products and services in certain sanctioned countries and regions including Cuba, Iran, North Korea, Syria, and the Crimea region of Ukraine. We’ve identified your team/account as originating from one of these countries and are closing the account effective immediately. 
 
-# Twist
 
-Twist is the communication tool for teams who believe there’s more to work than keeping up with group chat apps. 
-more info : https://twist.com
