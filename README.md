@@ -1,3 +1,5 @@
+![GitHub Logo](/stopslack.png)
+
 # Slack Alternatives List
 
 * [flock](#Flock)
